@@ -18,7 +18,7 @@ export default class Navbar extends Component {
             <div className="navbar-item">
               <div className="buttons">
                 <a href="/register" className="button is-primary">
-                  <strong>Sign up</strong>
+                  <strong>Sign sup</strong>
                 </a>
                 <a href="/login" className="button is-light">
                   Log in
